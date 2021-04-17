@@ -23,9 +23,7 @@ const hiScores = async (game, playerName) => {
     const [ rank, level, experience ] = skillData[i].split(',');
     stats[skills[i]] = { rank: parseInt(rank), level: parseInt(level), experience: parseInt(experience) };
   }
-  console.log(stats)
+  return stats;
 }
-
-hiScores('rs3', 'Bard Haller');
 
 module.exports = { hiScores }

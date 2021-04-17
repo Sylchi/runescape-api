@@ -1,6 +1,6 @@
 {
   "name": "@sylchi/runescape-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "https://github.com/Sylchi/runescape-api.git",
   "description": "Simple api wrapper for runescape api",
   "main": "index.js",
