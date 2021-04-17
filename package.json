@@ -1,0 +1,11 @@
+{
+  "name": "@sylchi/runescape-api",
+  "version": "1.0.0",
+  "description": "Simple api wrapper for runescape api",
+  "main": "index.js",
+  "author": "Ken Kauksi <kenssservices@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
